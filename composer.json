@@ -1,0 +1,17 @@
+{
+    "name": "KAGOLABS/KAGO",
+    "authors": [
+        {
+            "name": "KAGOLABS",
+            "email": "support@kagolabs.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-0": {
+            "PayMoney": "php-sdk/src/"
+        }
+    }
+}
